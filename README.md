@@ -4,6 +4,9 @@ Hi, This is the source code for OBSTACLES Demo 1.
 
 I have decided to make this demo open source as the next demo will be remade entirely in GMS2 and i dont wanna let this version be abandoned :P
 
+This game was made in GameMaker 8.2 so beware of that!
+uwu
+
 also im like. a nice fucking person.
 that's all
 
