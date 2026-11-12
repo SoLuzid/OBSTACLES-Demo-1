@@ -18,6 +18,12 @@ have fun with this dumbass project a random ass enby made about a few months ago
 2. There's a bunch of unused stuff here. (duh)
 3. idk what else to say. OBSTACLES will release as a paid game so buy it when it comes out or smth.
 
+# License & Assets
+
+The source code in this repository is licensed under **AGPL-3.0** (so credit me and keep your code open source if you use it!). 
+
+However, all **sprites, backgrounds, sounds, music, and character designs** are **All Rights Reserved**. Please don't reuse the art or audio in your own projects or commercial games.
+
 # Links
 *(or should i say. link cuz. there's only one lmaooooooooooooooooooooooooooooo)*
 
